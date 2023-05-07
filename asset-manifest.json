@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/css/main.3b2e50d6.css",
+    "main.js": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/js/main.5da9cd8f.js",
+    "index.html": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/index.html",
+    "main.3b2e50d6.css.map": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/css/main.3b2e50d6.css.map",
+    "main.5da9cd8f.js.map": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/js/main.5da9cd8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2e50d6.css",
+    "static/js/main.5da9cd8f.js"
+  ]
+}
