@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.app {
+  text-align: center;
+  width: 500px;
+  box-shadow: 0px 0px 10px 0px #78A6C8;
+  border-radius: 30px;
+  padding: 20px;
+  background-color: #326789;
+  color: #ffff; 
+}
+
+.socialMediaIcons {
+  width: 100%;
+  padding: 5px 0;
+  margin-top: 30px;
+  font-size: 20px;
+  background-color: #78A6C8;
+  position: static;
+  border-radius: 5px;
+  bottom: 0;
+  left: 50%;
+}
+
+.socialMediaIcons a svg {
+  color: white;
+  transition: .5s ease-in-out;
+}
+
+.socialMediaIcons a:nth-child(1) {
+  padding-right: 10px;
+}
+
+.socialMediaIcons a svg:nth-child(1):hover {
+  color: #000000d8;
+  transform: scale(1.2);
+}
+
+.socialMediaIcons a svg:nth-child(2):hover {
+  color: #0077B5;
+  transform: scale(1.2);
+}
+ 
+@media (max-width: 768px) {
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+  }
+  .app {
+    width: 100vw;
+    min-height: 100vh;
+    padding-top: 10px;
+    box-shadow: none;
+    border-radius: 0;
+    margin: 0;
+  }
+
+  .socialMediaIcons {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+
+}
+
