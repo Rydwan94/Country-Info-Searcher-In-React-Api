@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/css/main.3b2e50d6.css",
-    "main.js": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/js/main.5da9cd8f.js",
-    "index.html": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/index.html",
-    "main.3b2e50d6.css.map": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/css/main.3b2e50d6.css.map",
-    "main.5da9cd8f.js.map": "/Rydwan94/Country-Info-Searcher-In-React-Api.git/static/js/main.5da9cd8f.js.map"
+    "main.css": "/Country-Info-Searcher-In-React-Api/static/css/main.6e5f3f76.css",
+    "main.js": "/Country-Info-Searcher-In-React-Api/static/js/main.5da9cd8f.js",
+    "index.html": "/Country-Info-Searcher-In-React-Api/index.html",
+    "main.6e5f3f76.css.map": "/Country-Info-Searcher-In-React-Api/static/css/main.6e5f3f76.css.map",
+    "main.5da9cd8f.js.map": "/Country-Info-Searcher-In-React-Api/static/js/main.5da9cd8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b2e50d6.css",
+    "static/css/main.6e5f3f76.css",
     "static/js/main.5da9cd8f.js"
   ]
 }
